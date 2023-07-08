@@ -5,7 +5,12 @@ body {
   color: #2d6b22;
 }
 
-h1, h2, h3 {
+h1 {
+font-family: 'Heebo', sans-serif;
+  color: #ffffff;
+}
+
+h2, h3 {
   font-family: 'Heebo', sans-serif;
   color: #072a16;
 }
