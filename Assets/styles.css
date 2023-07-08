@@ -8,6 +8,7 @@ body {
 h1 {
 font-family: 'Heebo', sans-serif;
   color: #ffffff;
+  text-align: center; /* Alineación centrada */
 }
 
 h2, h3 {
