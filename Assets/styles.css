@@ -92,3 +92,10 @@ footer {
   font-size: 20px;
   text-decoration: none;
 }
+
+.facebook-icon,
+.instagram-icon,
+.linkedin-icon,
+.youtube-icon {
+  font-size: 20px; /* Ajusta el tamaño de los iconos */
+}
